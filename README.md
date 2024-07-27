@@ -32,7 +32,7 @@ git clone https://github.com/Leoleojames1/Math_Wings.git
 math_wings/program/developer_tools/FALCON_API_KEY_template.json
 ```
 
-to -> 
+move to program folder and replace placeholder string with API key
 ```
 math_wings/program/FALCON_API_KEY.json
 ```
