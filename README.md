@@ -9,7 +9,7 @@
 # 🦅Math Wings🦅
 
 ## About
-Math wings is a personal math research assistant user requests the agent to research relevant math papers with arxiv api, then combines it with their personal math paper data and research, to compile the entire latex paper
+Math wings is a personal math research assistant in which the user requests the agent to research relevant math papers with arxiv api, then combines it with their personal math paper data, to compile the entire latex paper.
 
 Math wings is built on top of Ai71's Falcon API, providing it with both a Rag, and an Agentic Framework for compiling research data, constructing latex solutions and providing access to plotting software automations for writing latex papers.
 
