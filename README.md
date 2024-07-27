@@ -16,9 +16,13 @@ Math wings is a personal math research assistant user requests the agent to rese
    
 [miniconda install](https://docs.anaconda.com/miniconda/)
 
+```
+conda create -n ai71 python=3.11.9
+```
+
 To get started with Math Wings execute the following steps:
 
-2. clone the repo
+1. clone the repo
 ```
 git clone https://github.com/Leoleojames1/Math_Wings.git
 ```
@@ -32,3 +36,10 @@ to ->
 ```
 math_wings/program/FALCON_API_KEY.json
 ```
+
+3. install python packages:
+```
+conda activate ai71
+cd math_wings/program
+pip install -r requirements.txt
+``` 
