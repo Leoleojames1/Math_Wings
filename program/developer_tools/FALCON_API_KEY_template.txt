@@ -1,0 +1,3 @@
+{
+    "$(falcon_api_key.developer_custom)" : "<your AI71 API key>"
+}
