@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/math_wings.png" alt="OARC LOGO" width="200"/>
+  <img src="docs/icons/math_wings.png" alt="OARC LOGO" width="200"/>
 </p>
 <p align="center">
   <a href="https://ko-fi.com/theborch"><img src="docs/icons/buy me a coffee button.png" height="48"></a>
