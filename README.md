@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/icons/math_wings.png" alt="OARC LOGO" width="200"/>
+  <img src="docs/icons/math_wings.png" alt="math_wings_logo" width="200"/>
 </p>
 <p align="center">
   <a href="https://ko-fi.com/theborch"><img src="docs/icons/buy me a coffee button.png" height="48"></a>
@@ -14,7 +14,7 @@ Math wings is a personal math research assistant user requests the agent to rese
 Math wings is built on top of Ai71's Falcon API, providing it with both a Rag, and an Agentic Framework for compiling research data, constructing latex solutions and providing access to plotting software automations for writing latex papers.
 
 <p align="center">
-  <img src="docs/icons/falcon_api_example.png" alt="OARC LOGO" width="200"/>
+  <img src="docs/icons/falcon_api_example.png" alt="falcon_ex" width="200"/>
 </p>
 
 # installing
